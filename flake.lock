@@ -1,0 +1,58 @@
+{
+  "nodes": {
+    "flake-utils": {
+      "locked": {
+        "lastModified": 1659877975,
+        "narHash": "sha256-zllb8aq3YO3h8B/U0/J1WBgAL8EX5yWf5pMj3G0NAmc=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "c0e246b9b83f637f4681389ecabcb2681b4f3af0",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1660017629,
+        "narHash": "sha256-Koz6/k7c6hx4qVz/bboxdR2QsBdkxjRWpNmsOWJtXZE=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "9f15d6c3a74d2778c6e1af67947c95f100dc6fd2",
+        "type": "github"
+      },
+      "original": {
+        "id": "nixpkgs",
+        "type": "indirect"
+      }
+    },
+    "root": {
+      "inputs": {
+        "flake-utils": "flake-utils",
+        "nixpkgs": "nixpkgs",
+        "src": "src"
+      }
+    },
+    "src": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1658939240,
+        "narHash": "sha256-53jPpKYOBaRQUvgyFKYrDrKOv9uNf6QWTcHQh1S7HKc=",
+        "owner": "Ichimikichiki",
+        "repo": "ichibot-client-app",
+        "rev": "91110cfc2f20e3e7823178db3e52c2cdd5a8cebd",
+        "type": "gitlab"
+      },
+      "original": {
+        "owner": "Ichimikichiki",
+        "repo": "ichibot-client-app",
+        "type": "gitlab"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
