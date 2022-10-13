@@ -2,11 +2,11 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1660017629,
-        "narHash": "sha256-Koz6/k7c6hx4qVz/bboxdR2QsBdkxjRWpNmsOWJtXZE=",
+        "lastModified": 1665634984,
+        "narHash": "sha256-zwXeMc96BD9iFxSB/SLr3dI8iYpqM+seX9qy6bGV+cw=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "9f15d6c3a74d2778c6e1af67947c95f100dc6fd2",
+        "rev": "cfea568da97a2668ef3cb3fc42eaacfb0e706807",
         "type": "github"
       },
       "original": {
@@ -23,11 +23,11 @@
     "src": {
       "flake": false,
       "locked": {
-        "lastModified": 1658939240,
-        "narHash": "sha256-53jPpKYOBaRQUvgyFKYrDrKOv9uNf6QWTcHQh1S7HKc=",
+        "lastModified": 1663515350,
+        "narHash": "sha256-/UGcQfUW+982BTzGoooupDYDnfP27sB4dsjeEuBVNrU=",
         "owner": "Ichimikichiki",
         "repo": "ichibot-client-app",
-        "rev": "91110cfc2f20e3e7823178db3e52c2cdd5a8cebd",
+        "rev": "740ee10954e5d3c431e87639dee5c4e3a34660c5",
         "type": "gitlab"
       },
       "original": {
